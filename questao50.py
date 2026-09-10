@@ -17,3 +17,5 @@ for nome,nota in nota_alunos.items():
     if nota>=7:
         print("Aluno aprovado: ", nome)
         print("\t Nota do aluno: ", nota)
+
+#1,2,4,5,6,9,11,27,54
